@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4560",
+  "folder": "Other__2329877_20260525185646_7abeb9",
+  "base_name": "Other__2329877_20260525185646_7abeb9.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Ho33ein3alehi/Cloud-Downloads-1/releases/tag/co-releases-v1-4560",
+  "files": [
+    {
+      "name": "Other__2329877_20260525185646_7abeb9.exe",
+      "url": "https://github.com/Ho33ein3alehi/Cloud-Downloads-1/releases/download/co-releases-v1-4560/Other__2329877_20260525185646_7abeb9.exe",
+      "api_url": "https://api.github.com/repos/Ho33ein3alehi/Cloud-Downloads-1/releases/assets/429577765",
+      "id": 429577765,
+      "size": 74775807,
+      "download_count": 0
+    }
+  ]
+}
