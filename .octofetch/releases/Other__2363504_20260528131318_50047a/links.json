@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9921",
+  "folder": "Other__2363504_20260528131318_50047a",
+  "base_name": "Other__2363504_20260528131318_50047a.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Ho33ein3alehi/Cloud-Downloads-1/releases/tag/co-releases-v1-9921",
+  "files": [
+    {
+      "name": "Other__2363504_20260528131318_50047a.bin",
+      "url": "https://github.com/Ho33ein3alehi/Cloud-Downloads-1/releases/download/co-releases-v1-9921/Other__2363504_20260528131318_50047a.bin",
+      "api_url": "https://api.github.com/repos/Ho33ein3alehi/Cloud-Downloads-1/releases/assets/432104190",
+      "id": 432104190,
+      "size": 204483430,
+      "download_count": 0
+    }
+  ]
+}
